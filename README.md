@@ -1,0 +1,1 @@
+pip opencv-python
