@@ -1,1 +1,1 @@
-pip opencv-python
+pip install opencv-python
